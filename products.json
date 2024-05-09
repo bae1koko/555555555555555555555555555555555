@@ -1,0 +1,74 @@
+[
+  {
+    "code": "P001",
+    "product_name": "Laptop",
+    "product_details": "15-inch, Intel Core i7, 16GB RAM, 512GB SSD",
+    "price": "25000",
+    "products_remaining": "20",
+    "quantity": null
+  },
+  {
+    "code": "P002",
+    "product_name": "Smartphone",
+    "product_details": "6.5-inch OLED, Snapdragon 888, 128GB storage",
+    "price": "15000",
+    "products_remaining": "30",
+    "quantity": null
+  },
+  {
+    "code": "P003",
+    "product_name": "Smart TV",
+    "product_details": "55-inch 4K LED, HDR, Smart TV features",
+    "price": "35000",
+    "products_remaining": "15"
+  },
+  {
+    "code": "P004",
+    "product_name": "Wireless Headphones",
+    "product_details": "Active Noise Cancelling, Bluetooth 5.0",
+    "price": "5000",
+    "products_remaining": "50"
+  },
+  {
+    "code": "P005",
+    "product_name": "Digital Camera",
+    "product_details": "24MP, 4K video recording, Lens kit included",
+    "price": "18000",
+    "products_remaining": "10"
+  },
+  {
+    "code": "P006",
+    "product_name": "Fitness Tracker",
+    "product_details": "Heart rate monitor, Sleep tracking",
+    "price": "3000",
+    "products_remaining": "25"
+  },
+  {
+    "code": "P007",
+    "product_name": "Gaming Mouse",
+    "product_details": "RGB lighting, Adjustable DPI",
+    "price": "1500",
+    "products_remaining": "40"
+  },
+  {
+    "code": "P008",
+    "product_name": "External Hard Drive",
+    "product_details": "2TB storage, USB 3.0",
+    "price": "4000",
+    "products_remaining": "20"
+  },
+  {
+    "code": "P009",
+    "product_name": "Coffee Maker",
+    "product_details": "12-cup capacity, Programmable timer",
+    "price": "2500",
+    "products_remaining": "15"
+  },
+  {
+    "code": "P010",
+    "product_name": "Wireless Router",
+    "product_details": "Dual-band, Gigabit Ethernet ports",
+    "price": "3500",
+    "products_remaining": "30"
+  }
+]
